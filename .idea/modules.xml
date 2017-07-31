@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doubleit.iml" filepath="$PROJECT_DIR$/.idea/modules/doubleit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doubleit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/doubleit_main.iml" group="doubleit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doubleit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/doubleit_test.iml" group="doubleit" />
+    </modules>
+  </component>
+</project>
